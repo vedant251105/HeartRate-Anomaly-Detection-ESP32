@@ -1,4 +1,4 @@
-# Heart Rate Anomaly Detection During Physical Activity
+[# Heart Rate Anomaly Detection During Physical Activity
 ### ESP32 + TinyML | Embedded AI Project | 2026
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)]()
@@ -60,3 +60,4 @@ Vedant Gadge | B.Tech Electronics & Telecommunication | PCCOE Pune
 
 Project submitted for: Computional Tools for AIML 
 Academic Year: 2025-26
+](https://github.com/vedant251105/HeartRate-Anomaly-Detection-ESP32)
