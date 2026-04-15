@@ -1,10 +1,3 @@
-// ============================================================
-// HeartRateAI_Final.ino — v7
-// CHANGES FROM v6:
-//   1. GPIO13 Reset button now does full ESP32 restart (ESP.restart())
-//   2. softResetSensor() and sensorResetRequested removed
-// ============================================================
-
 #define BLYNK_TEMPLATE_ID   "TMPL3PMzPzLMN"
 #define BLYNK_TEMPLATE_NAME "HEART MONITOR 1"
 #define BLYNK_AUTH_TOKEN    "e-BwPLpOIagGKqYZuWxMo4hhV1A3-gQ1"
